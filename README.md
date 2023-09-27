@@ -20,7 +20,7 @@ Currently Studying 🚀: CursoemVideo - Python
 
 ## Conecte-se comigo
 <div>
-  <a href="[https://www.linkedin.com/in/brunamanzi/](https://www.linkedin.com/in/brunamanzi1/)">
+  <a href=https://www.linkedin.com/in/brunamanzi1/>
   <img height=40  src=https://img.shields.io/badge/Linkedin-FFF??style=for-the-badge&logo=linkedin&logoColor=E0115F&>
   </a>
 </div>
